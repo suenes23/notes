@@ -1,0 +1,2 @@
+# notes
+self compscı notes
